@@ -1,17 +1,19 @@
-<h1 align="center">Hi 👋, I'm FFGapple</h1>
-<h3 align="center">I'm The Developer Of The FFGapple Launcher!</h3>
+# 💫About Me :
+🔭 I’m currently working on FFGapple
+🌱 I’m currently learning C++
+💬 Ask me about FFGapple
 
-- 🔭 I’m currently working on **FFGapple**
+⚡ Fun fact It's The First Version Of FFGapple xd https://github.com/TrafoEfe/FFGapple
 
-- 🌱 I’m currently learning **C++**
+# 💻Tech Stack
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white)
+# 📊GitHub Stats :
+![](https://github-readme-stats.vercel.app/api?username=FFGapple&theme=bear&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=FFGapple&theme=bear&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=FFGapple&theme=bear&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-- 💬 Ask me about **FFGapple**
+### 😂Random Dev Meme
+<img src="https://random-memer.herokuapp.com/" width="512px"/>
 
-- ⚡ Fun fact **It's The First Version Of FFGapple xd https://github.com/TrafoEfe/FFGapple**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> </p>
+---
+[![](https://visitcount.itsvg.in/api?id=FFGapple&icon=0&color=6)](https://visitcount.itsvg.in)
