@@ -1,7 +1,5 @@
 # 💫About Me :
-🔭 I’m currently working on FFGapple
-🌱 I’m currently learning C++
-💬 Ask me about FFGapple
+🔭 Developing The FFGapple Minecraft Launcher 7/24 (JK). 
 
 ⚡ Fun fact It's The First Version Of FFGapple xd https://github.com/TrafoEfe/FFGapple
 
